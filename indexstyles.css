@@ -1,0 +1,26 @@
+body {
+    background-color: #183EFA;
+}
+
+.content {
+    margin-top: 100px;
+    margin-left: 25%;   
+    text-align: left;
+    position: fixed;
+    color: beige;
+}
+a {
+    color: white;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 85%; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+} 
+h1, p {
+    text-align: center;
+}
+
+a:hover {
+ color:red;
+}
